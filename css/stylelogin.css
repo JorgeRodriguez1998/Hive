@@ -12,11 +12,10 @@ body {
 .form-login {
   width: 400px;
   height: 340px;
-  background: #4e4d4d;
+  background: #666565;
   margin: auto;
   margin-top: 180px;
   padding: 20px 30px;
-  border-top: 4px solid #0d3174;
   color: white;
 }
 
