@@ -1,16 +1,8 @@
-.galeria {
-    overflow: hidden;
-    margin: 30px;
-    padding-top: 60px;
-    padding-bottom: 60px;
-  }
-
-
 .formulario {
     margin-bottom: 100px;
 }
 
-.fondo {
+.navbar {
     background-color: #0d3174;
 }
 
