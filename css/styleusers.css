@@ -22,25 +22,16 @@ body {
 .form-login h5 {
   margin: 0;
   text-align: center;
-  height: 50px;
-  margin-bottom: 30px;
+  height: 55px;
+  margin-bottom: 60px;
   border-bottom: 1px solid;
   font-size: 20px;
 }
 
-.controls {
-  width: 100%;
-  border: 1px solid #0d3174;
-  margin-bottom: 15px;
-  padding: 11px 10px;
-  background: #d2ceda;
-  font-size: 14px;
-  font-weight: bold;
-}
 
 .buttons {
   width: 100%;
-  height: 40px;
+  height: 70px;
   background: #0d3174;
   border: none;
   color: white;
@@ -56,9 +47,4 @@ body {
 .form-login a {
   color: white;
   text-decoration: none;
-  font-size: 14px;
-}
-
-.form-login a:hover {
-  text-decoration: underline;
 }
