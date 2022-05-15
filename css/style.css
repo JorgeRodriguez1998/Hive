@@ -21,4 +21,15 @@
 }
 
 
+#grafica1{
+    max-width: 1000px;
+    margin-top: 20px;
+    margin : auto;
+}
+
+.graficas h1 {
+   font-size: 35px; 
+   margin-top: 50px;
+   text-align: center;
+}
 
